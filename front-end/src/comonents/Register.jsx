@@ -68,7 +68,7 @@ const Register = () => {
 
     return (
         <div className='h-screen w-full flex justify-center items-center'>
-            <form onSubmit={onSubmit} className='flex flex-col h-fit max-w-md p-8 rounded-2xl shadow-lg gap-6'>
+            <form onSubmit={onSubmit} className='flex flex-col h-fit max-w-ld p-8 rounded-2xl shadow-lg gap-6'>
                 <h2 className='text-2xl font-bold text-center'>Register</h2>
                 <div className='flex flex-col gap-3'>
                     <label htmlFor="name">Name</label>
