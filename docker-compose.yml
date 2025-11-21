@@ -57,5 +57,3 @@ volumes:
     external: true
     name: mongo-data
   mongo-config:
-    external: true
-    name: mongo-config
